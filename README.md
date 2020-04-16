@@ -1,2 +1,1 @@
-# viglet-social
-Collaborative and Social
+## Viglet Social
